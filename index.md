@@ -243,8 +243,6 @@ for more information.
 </p>
 
 
-<hr/>
-
 <!--
 NOTE: This space can be customized to reflect the unique schedule of your workshop. If you would like it to display, 
 adjust the times and titles, then delete the characters above and below that serve to comment it out.
