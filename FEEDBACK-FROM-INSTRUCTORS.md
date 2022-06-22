@@ -7,6 +7,7 @@
 - too many links shared in checkout and how we operate epsodes - learners are lost
 - making clear that we will stick to start and stop times and we will have breaks but we may not stick to the liter schedule in the IT materials
 - having timings in IT materials is confusing and most often not a reflaction of reality - I'd suggest removing it (it is actually removed from the new lesson template for learners but is there for isntructors - which is great)
+ - also, I'd restructure schedule in 4 sections (4 half-day) rather than 2 days as workshops are sometimes carried out over 4 half-days and then the schedule is confusing - just using sections and splitting material in 4 of those would be helpful
 - having 1 15-minute break is not enough
 - 2 full days are really hard, especially online - for everyone (no time to do any work or manage caring duties for anyone)
 - the first teaching demo exercise is at the end of Day 1 and often gets squashed - we had to move it for the start of Day 2
