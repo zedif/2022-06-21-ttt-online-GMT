@@ -1,5 +1,9 @@
 
 - discrepancy with schedule in the email vs. IT material website (with people trying to keep us to the latter and us not being clear that the latter is guideline)
+- people not reading prep instructions properly - also some repetition in email that gets sent to participant and website but not exactly the same and consistent
+- in prep instructions on the website it says 'not to spend more than 20-30' on prep - this is confusing and puts unnecessary rpessure on people where it is meant to relax them - this time is not enough to rpepar just to read the lesson itself 
+- 5 minutes not enough to sign up to demo and doscussion etherpads - people using screen readers can hardly read and make sense of those pads and it is the same for the others - suggest diving 10 minutes or just asking people to do this after the workshop
+- too many links shared in checkout and how we operate epsodes - learners are lost
 - making clear that we will stick to start and stop times and we will have breaks but we may not stick to the liter schedule in the IT materials
 - having timing in IT materials is confusing and most often not a reflaction of reality - I'd suggest removing it (it is actually removed from the new lesson template)
 - having 1 15-minute break is not enough
