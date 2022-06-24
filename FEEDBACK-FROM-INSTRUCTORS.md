@@ -12,3 +12,4 @@
 - 2 full days are really hard, especially online - for everyone (no time to do any work or manage caring duties for anyone)
 - the first teaching demo exercise is at the end of Day 1 and often gets squashed - we had to move it for the start of Day 2
 - having 3rd instructor was absolutely wonderful
+- people asked loads of questions on doing PRs in GitHub - we should probably run regular skill ups to help people with workshop website creation (this exercise is ofthen tricky for novices and there is not enough time to do it - good approach is to have more experienced learners act as helpers) and working in GitHub
